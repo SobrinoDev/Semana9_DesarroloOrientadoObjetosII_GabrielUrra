@@ -1,0 +1,4 @@
+# Copiar como "db.properties" en la carpeta desde donde se ejecuta la app y ajustar la clave.
+db.url=jdbc:mysql://localhost:3306/biblioteca_escolar?serverTimezone=America/Santiago
+db.user=root
+db.password=
